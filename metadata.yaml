@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '5400'
     url: http://www.gutenberg.org/2009/agents/5400
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14185#Edward-MacDowell--A-Great-American-Tone-Poet-His-Life-and-Music
 gutenberg_issued: '2004-11-28'
 gutenberg_type: Text
 identifiers:
