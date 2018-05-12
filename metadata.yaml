@@ -1,0 +1,26 @@
+_repo: Edward-MacDowell--A-Great-American-Tone-Poet-His-Life-and-Music_14185
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Porte, John Fielder
+    alias: Porte, J. F. (John Fielder)
+    gutenberg_agent_id: '5400'
+    url: http://www.gutenberg.org/2009/agents/5400
+description: ''
+gutenberg_issued: '2004-11-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14185'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Composers -- United States -- Biography'
+- !lcc 'MT'
+- !lcsh 'MacDowell, Edward, 1860-1908'
+title: 'Edward MacDowell: A Great American Tone Poet, His Life and Music'
+url: http://www.gutenberg.org/ebooks/14185
